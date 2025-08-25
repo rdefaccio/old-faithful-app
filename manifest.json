@@ -5,6 +5,7 @@
     "appmode": "shiny",
     "entrypoint": "app.R"
   },
+  "r_version": "4.3.0",
   "packages": {
     "R": {
       "shiny": "1.7.0",
