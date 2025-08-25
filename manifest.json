@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "shiny",
+    "entrypoint": "app.R"
+  },
+  "packages": {
+    "R": [
+      {"name": "shiny", "version": "1.7.0"},
+      {"name": "shinydashboard", "version": "0.7.2"}
+    ]
+  }
+}
