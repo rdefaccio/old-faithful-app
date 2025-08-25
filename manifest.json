@@ -6,9 +6,9 @@
     "entrypoint": "app.R"
   },
   "packages": {
-    "R": [
-      {"name": "shiny", "version": "1.7.0"},
-      {"name": "shinydashboard", "version": "0.7.2"}
-    ]
+    "R": {
+      "shiny": "1.7.0",
+      "shinydashboard": "0.7.2"
+    }
   }
 }
