@@ -5,11 +5,5 @@
     "appmode": "shiny",
     "entrypoint": "app.R"
   },
-  "platform": "4.3.0",
-  "packages": {
-    "R": {
-      "shiny": "1.7.0",
-      "shinydashboard": "0.7.2"
-    }
-  }
+  "platform": "4.3.0"
 }
